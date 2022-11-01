@@ -13,11 +13,15 @@
 
 Sebelum menjalankan program, pastikan menggunakan python **3.x** atau versi yang lebih baru. Program ini telah di coba dan berjalan dengan baik menggunakan python versi **3.11**. Untuk menginstall semua library yang diperlukan:
 
-`py -m pip freeze`
+```python
+    py -m pip freeze
+```
 
 Setelah melakukan instalasai library, program dapat dijalankan dengan menggunakan perintah:
 
-`py main.py`
+```python
+    py main.py
+```
 
 ## Penggunaan
 
